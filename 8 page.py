@@ -259,7 +259,7 @@ d.roll_dice()
 d.print_dice()
 """
 
-
+print("hi")
 
 
 
